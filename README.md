@@ -29,7 +29,7 @@ Este site foi desenvolvido para oferecer uma experiência de usuário consistent
 Agradeço especialmente ao DevClub e ao mentor Rodolfo Mori pelo suporte inestimável durante o curso. Este projeto foi uma excelente oportunidade para aplicar o conhecimento adquirido e enfrentar desafios reais no desenvolvimento web.
 
 <h2>Contato</h2>
-Para qualquer dúvida ou feedback, entre em contato comigo através das seguintes redes sociais:
+Para qualquer dúvida ou feedback, entre em contato comigo através das seguintes redes sociais:<br>
 LinkedIn: https://www.linkedin.com/in/luis-gustavo-de-carvalho-ferreira/<br>
 Instagram: https://www.instagram.com/luisgustavo.cf/
 <br>
